@@ -54,6 +54,8 @@ img {
   display: inline-block;
   font-size: 18px;
   position: relative;
+  font-family: "poppins";
+  font-weight: 400;
 }
 
 .header-menu a:after {
@@ -103,6 +105,8 @@ img {
   margin-bottom: 32px;
   font-size: 64px;
   line-height: 1.125;
+  font-family: "poppins";
+  font-weight: 600;
 }
 
 .introducao h1 span {
@@ -114,6 +118,8 @@ img {
   font-size: 24px;
   line-height: 1.5;
   color: #b2b2b2;
+  font-family: "roboto";
+  font-weight: 400;
 }
 
 .introducao a {
@@ -126,7 +132,8 @@ img {
   color: #332200;
   font-size: 18px;
   line-height: 1.33;
-  font-weight: bold;
+  font-family: "poppins";
+  font-weight: 600;
 }
 
 .introducao a:hover {
